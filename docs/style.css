@@ -5,10 +5,11 @@
 .warp {
   display: flex;
   flex-direction: column;
+  width: 100%;
   max-width: 640px;
   height: 100vh;
   margin: 0 auto;
-  padding-bottom: 6vh;
+  /* padding-bottom: 6vh; */
   background-color: #EEEEEE;
 }
 
