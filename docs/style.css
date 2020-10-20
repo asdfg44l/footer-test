@@ -9,6 +9,7 @@
   overflow: hidden;
   margin: 0 auto;
   background-color: #EEEEEE;
+  padding-bottom: 6vh;
 }
 
 .header {
@@ -18,15 +19,16 @@
   background-color: #69F0AE;
 }
 .content {
+  flex: 1 1 88%;
+  max-height: 88%;
   display: flex;
   flex-direction: column;
-  height: 88vh;
   background-color: #FFCCBC;
 }
 .collapse {
   flex: 1 1 50%;
   max-height: 50%;
-  /* margin-top: auto; */
+  margin-top: auto;
   background-color: #fff;
   overflow: auto;
 }
