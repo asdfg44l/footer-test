@@ -42,7 +42,7 @@
   background-color: #00BFA5;
 }
 .footer {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   height: 6vh;
   width: 100%;
