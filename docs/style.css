@@ -19,8 +19,8 @@
   background-color: #69F0AE;
 }
 .content {
-  flex: 1 1 88%;
-  max-height: 88%;
+  flex: 1 1 88vh;
+  max-height: 88vh;
   display: flex;
   flex-direction: column;
   background-color: #FFCCBC;
