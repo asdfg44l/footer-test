@@ -26,7 +26,7 @@
 .collapse {
   flex: 1 1 50%;
   max-height: 50%;
-  margin-top: auto;
+  /* margin-top: auto; */
   background-color: #fff;
   overflow: auto;
 }
